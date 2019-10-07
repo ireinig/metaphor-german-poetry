@@ -1,10 +1,16 @@
 # Metaphor detection for German Poetry
 
-This repository contains the POEMS dataset described in the paper Metaphor detection for German Poetry (2019).
+This repository contains the datasets POEMS and TSV described in the paper Metaphor detection for German Poetry (2019).
+TSV is based on the English dataset of Tsvetkov et al. (2014).
 
 ## Data 
 
-The folder **data** contains the following files:
+The folders contain the following data:
+
+- **poems**: POEMS dataset (train and test)
+- **tsv-translated**: TSV dataset (train and test)
+
+In both folders, the files are organized as follows:
 
 - Training data: files starting with `train_`
 - Test data: files starting with `test_`
