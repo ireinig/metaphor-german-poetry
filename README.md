@@ -1,6 +1,6 @@
 # Metaphor detection for German Poetry
 
-This repository contains the datasets POEMS and TSV described in the paper [Metaphor detection for German Poetry (2019)](https://2019.konvens.org/).
+This repository contains the datasets POEMS and TSV described in the paper [Metaphor detection for German Poetry (2019)](https://2019.konvens.org/proceedings).
 TSV is based on the English dataset of [Tsvetkov et al. (2014)](https://www.aclweb.org/anthology/P14-1024.pdf).
 
 ## Data 
